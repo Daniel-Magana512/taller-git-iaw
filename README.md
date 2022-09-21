@@ -42,5 +42,16 @@ Este texto no es una cita.
  [![](https://www.adslzone.net/app/uploads-adslzone.net/2019/04/borrar-fondo-imagen.jpg)](https://www.marca.com/)
 
  ![](images/40666021673_fb324524ec_b.jpg)
- 
+
 [Enlace al documento A](documentoA.md)
+
+
+# Para las listas
+ * Lista 1
+ * lista 2
+
+| ENcabezado 1 | Encabezado 2 | Encabezado 3
+| --- | --- | --- | --- | ---
+| Fila 1.1 | fila 1.2 | fila 1.3
+| Fila 2.1 | fila 2.2 | fila 2.3
+| Fila 3.1 | fila 3.2 | fila 3.3
