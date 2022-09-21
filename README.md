@@ -35,4 +35,6 @@ Este texto no es una cita.
  #Referencias
   [Marca](https://www.marca.com/)
   
+ ![](https://www.adslzone.net/app/uploads-adslzone.net/2019/04/borrar-fondo-imagen.jpg)
+  [![](https://www.adslzone.net/app/uploads-adslzone.net/2019/04/borrar-fondo-imagen.jpg)](https://www.marca.com/)
   ![](https://www.adslzone.net/app/uploads-adslzone.net/2019/04/borrar-fondo-imagen.jpg)
