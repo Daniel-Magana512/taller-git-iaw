@@ -51,7 +51,7 @@ Este texto no es una cita.
  * lista 2
 
 | ENcabezado 1 | Encabezado 2 | Encabezado 3
-| --- | --- | --- | --- | ---
-| Fila 1.1 | fila 1.2 | fila 1.3
-| Fila 2.1 | fila 2.2 | fila 2.3
-| Fila 3.1 | fila 3.2 | fila 3.3
+| --- | --- | --- 
+| Fila1.1 | fila1.2 | fila1.3
+| Fila2.1 | fila2.2 | fila2.3
+| Fila3.1 | fila3.2 | fila3.3
